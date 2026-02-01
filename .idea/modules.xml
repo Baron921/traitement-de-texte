@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/traitement-de-texte.iml" filepath="$PROJECT_DIR$/.idea/traitement-de-texte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/traitement_texte.iml" filepath="$PROJECT_DIR$/.idea/traitement_texte.iml" />
     </modules>
   </component>
 </project>
